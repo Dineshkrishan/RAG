@@ -3,7 +3,9 @@
 A Retrieval-Augmented Generation (RAG) based PDF chatbot built with LangChain, 
 FAISS, and Streamlit. Upload any PDF and ask questions about it using AI.
 
-## 🚀 Demo
+## 🚀 Demo!
+[Uploading Screenshot 2026-06-11 201101.png…]()
+
 > Upload a PDF → Ask a question → Get AI-powered answers instantly
 
 ## 🛠️ Tech Stack
@@ -17,7 +19,7 @@ FAISS, and Streamlit. Upload any PDF and ask questions about it using AI.
 ## ⚙️ Installation
 
 1. Clone the repository
-   git clone https://github.com/yourusername/rag-chatbot.git
+   git clone https://github.com/Dineshkrishan/RAG.git
    cd rag-chatbot
 
 2. Create virtual environment
