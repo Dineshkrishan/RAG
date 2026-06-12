@@ -4,7 +4,7 @@ A Retrieval-Augmented Generation (RAG) based PDF chatbot built with LangChain,
 FAISS, and Streamlit. Upload any PDF and ask questions about it using AI.
 
 ## 🚀 Demo!
-[Uploading Screenshot 2026-06-11 201101.png…]()
+<img width="1920" height="1080" alt="Screenshot 2026-06-11 201101" src="https://github.com/user-attachments/assets/3a46899c-84c6-49f2-8850-ea62a09cb61b" />
 
 > Upload a PDF → Ask a question → Get AI-powered answers instantly
 
