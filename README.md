@@ -57,5 +57,5 @@ rag-chatbot/
 
 ## 👨‍💻 Author
 G. Dinesh Krishan
-- LinkedIn: your-linkedin-url
-- GitHub: your-github-url
+- LinkedIn: https://www.linkedin.com/in/dinesh-krishan/
+- GitHub: https://github.com/Dineshkrishan
